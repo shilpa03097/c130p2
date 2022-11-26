@@ -1,0 +1,19 @@
+body
+{
+  color: red;
+  background: lightblue;
+}
+.Score  
+{
+    font-size:30px;
+    margin-left: 20px;
+}
+.Timer
+{
+  font-size: 30px;
+}
+.Sketch
+{
+    font-size: 30px;
+    color:brown
+}
